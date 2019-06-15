@@ -1,0 +1,95 @@
+title: Product
+options:
+  delete: false
+  changeTitle: false
+  changeTemplate: false
+  changeSlug: false
+  changeStatus: false
+sections:
+  shopify:
+    type: fields
+    fields:
+      shopifyUploadImages:
+        label: Images
+        type: files
+        layout: cards
+        size: tiny
+        query: site.find('medias').images
+      shopifyTitle:
+        label: Title
+        type: text
+        disabled: true
+        width: 2/4
+      shopifyID:
+        label: ID
+        type: text
+        disabled: true
+        width: 1/4
+      shopifyHandle:
+        label: Handle
+        type: text
+        disabled: true
+        width: 1/4
+      shopifyPrice:
+        label: Price
+        type: text
+        disabled: true
+        width: 1/4
+      shopifyCompareAtPrice:
+        label: Price
+        type: text
+        disabled: true
+        width: 1/4
+      # shopifyFeaturedImage:
+      #   label: Featured
+      #   type: url
+      #   disabled: true
+      #   width: 1/2
+      # shopifyDescriptionHTML:
+      #   label: Description
+      #   type: textarea
+      #   disabled: true
+      # shopifyImages:
+      #   label: Images
+      #   type: structure
+      #   fields:
+      #     src:
+      #       label: URL
+      #       type: url
+      #   disabled: true
+      # shopifyVariants:
+      #   label: Variants
+      #   type: structure
+      #   fields:
+      #     price:
+      #       label: Price
+      #       type: text
+      #     compare_at_price:
+      #       label: Compare at price
+      #       type: text
+      #     inventory_quantity:
+      #       label: Inventory
+      #       type: text
+      #     sku:
+      #       label: SKU
+      #       type: text
+      #   disabled: true
+      # shopifyURL:
+      #   label: URL
+      #   type: url
+      #   disabled: true
+      # shopifyType:
+      #   label: Type
+      #   type: text
+      #   disabled: true
+      #   width: 1/2
+      # shopifyVendor:
+      #   label: Vendor
+      #   type: text
+      #   disabled: true
+      #   width: 1/2
+      # shopifyTags:
+      #   label: Tags
+      #   type: tags
+      #   separator: ,
+      #   disabled: true

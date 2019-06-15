@@ -1,0 +1,169 @@
+Title: Long sleeves Striped Tour T-shirt with printed Appliqué
+
+----
+
+Shopifyuploadimages: 
+
+- >
+  medias/60914590_2692045834143248_2494718220439650304_o.jpg
+
+----
+
+Shopifytitle: Long sleeves Striped Tour T-shirt with printed Appliqué
+
+----
+
+Shopifyid: 1986083913817
+
+----
+
+Shopifyhandle: long-sleeves-striped-tour-t-shirt-with-printed-applique
+
+----
+
+Shopifyprice: 295.00
+
+----
+
+Shopifycompareatprice: 
+
+----
+
+Shopifyfeaturedimage: 
+
+----
+
+Shopifyimages: 
+
+----
+
+Shopifydescriptionhtml: 
+
+<p>Model TE-STRI</p>
+<p>100% Cotton</p>
+<p>Long Sleeves T-shirt in Black and Maroon with printed Appliqué</p>
+
+----
+
+Shopifytype: T-shirt
+
+----
+
+Shopifytags: 
+
+----
+
+Shopifyvariants: 
+
+- 
+  id: 20549373100121
+  product_id: 1986083913817
+  title: XS
+  price: "295.00"
+  sku: TE-STRI
+  position: 1
+  inventory_policy: deny
+  compare_at_price: null
+  fulfillment_service: manual
+  inventory_management: shopify
+  option1: XS
+  option2: null
+  option3: null
+  created_at: 2019-02-07T13:58:05-05:00
+  updated_at: 2019-02-07T13:58:05-05:00
+  taxable: true
+  barcode: ""
+  grams: 0
+  image_id: null
+  weight: 0
+  weight_unit: kg
+  inventory_item_id: 20911852093529
+  inventory_quantity: 1
+  old_inventory_quantity: 1
+  requires_shipping: true
+  admin_graphql_api_id: >
+    gid://shopify/ProductVariant/20549373100121
+- 
+  id: 20549373132889
+  product_id: 1986083913817
+  title: S
+  price: "295.00"
+  sku: TE-STRI
+  position: 2
+  inventory_policy: deny
+  compare_at_price: null
+  fulfillment_service: manual
+  inventory_management: shopify
+  option1: S
+  option2: null
+  option3: null
+  created_at: 2019-02-07T13:58:05-05:00
+  updated_at: 2019-02-07T13:58:05-05:00
+  taxable: true
+  barcode: ""
+  grams: 0
+  image_id: null
+  weight: 0
+  weight_unit: kg
+  inventory_item_id: 20911852126297
+  inventory_quantity: 1
+  old_inventory_quantity: 1
+  requires_shipping: true
+  admin_graphql_api_id: >
+    gid://shopify/ProductVariant/20549373132889
+- 
+  id: 20549373165657
+  product_id: 1986083913817
+  title: M
+  price: "295.00"
+  sku: TE-STRI
+  position: 3
+  inventory_policy: deny
+  compare_at_price: null
+  fulfillment_service: manual
+  inventory_management: shopify
+  option1: M
+  option2: null
+  option3: null
+  created_at: 2019-02-07T13:58:05-05:00
+  updated_at: 2019-02-07T13:58:05-05:00
+  taxable: true
+  barcode: ""
+  grams: 0
+  image_id: null
+  weight: 0
+  weight_unit: kg
+  inventory_item_id: 20911852159065
+  inventory_quantity: 1
+  old_inventory_quantity: 1
+  requires_shipping: true
+  admin_graphql_api_id: >
+    gid://shopify/ProductVariant/20549373165657
+- 
+  id: 20549373198425
+  product_id: 1986083913817
+  title: L
+  price: "295.00"
+  sku: TE-STRI
+  position: 4
+  inventory_policy: deny
+  compare_at_price: null
+  fulfillment_service: manual
+  inventory_management: shopify
+  option1: L
+  option2: null
+  option3: null
+  created_at: 2019-02-07T13:58:05-05:00
+  updated_at: 2019-02-07T13:58:05-05:00
+  taxable: true
+  barcode: ""
+  grams: 0
+  image_id: null
+  weight: 0
+  weight_unit: kg
+  inventory_item_id: 20911852191833
+  inventory_quantity: 1
+  old_inventory_quantity: 1
+  requires_shipping: true
+  admin_graphql_api_id: >
+    gid://shopify/ProductVariant/20549373198425

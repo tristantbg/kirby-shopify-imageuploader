@@ -1,0 +1,11 @@
+title: Medias
+options:
+  delete: false
+  changeTemplate: false
+  changeStatus: false
+sections:
+  images:
+    type: files
+    layout: cards
+    template: image
+    size: tiny
