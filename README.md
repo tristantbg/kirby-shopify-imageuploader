@@ -1,1 +1,1 @@
-# Kirby Shpoify Image Uploader
+# Kirby Shopify Image Uploader
