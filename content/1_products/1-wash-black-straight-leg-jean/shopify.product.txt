@@ -7,6 +7,10 @@ Shopifyuploadimages:
 - >
   medias/60914590_2692045834143248_2494718220439650304_o.jpg
 - medias/cf174812-copie.jpg
+- medias/image1.jpg
+- medias/image2.jpg
+- medias/image3.jpg
+- medias/image4.jpg
 
 ----
 
